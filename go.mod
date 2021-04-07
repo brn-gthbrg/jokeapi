@@ -1,3 +1,3 @@
-module github.com/brn-gthbrg/jokeapi-go
+module github.com/Icelain/jokeapi-go
 
 go 1.15
